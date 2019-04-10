@@ -1,0 +1,1448 @@
+{
+   "Platform 1": [
+      {
+         "ProductType": "Prod A",
+         "Date": "2016-01-01",
+         "Value": 3342
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2016-02-01",
+         "Value": 1636
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2016-03-01",
+         "Value": 8635
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2016-04-01",
+         "Value": 3014
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2016-05-01",
+         "Value": 3199
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2016-06-01",
+         "Value": 5151
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2016-07-01",
+         "Value": 2678
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2016-08-01",
+         "Value": 3028
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2016-09-01",
+         "Value": 5081
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2016-10-01",
+         "Value": 5102
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2016-11-01",
+         "Value": 5577
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2016-12-01",
+         "Value": 5203
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2017-01-01",
+         "Value": 5629
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2017-02-01",
+         "Value": 4203
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2017-03-01",
+         "Value": 4791
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2017-04-01",
+         "Value": 7195
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2017-05-01",
+         "Value": 1232
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2017-06-01",
+         "Value": 8719
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2017-07-01",
+         "Value": 8340
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2017-08-01",
+         "Value": 2693
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2017-09-01",
+         "Value": 8418
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2017-10-01",
+         "Value": 8236
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2017-11-01",
+         "Value": 7946
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2017-12-01",
+         "Value": 9348
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2018-01-01",
+         "Value": 8252
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2018-02-01",
+         "Value": 2693
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2018-03-01",
+         "Value": 1598
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2018-04-01",
+         "Value": 5329
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2018-05-01",
+         "Value": 9629
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2018-06-01",
+         "Value": 2590
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2018-07-01",
+         "Value": 5305
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2018-08-01",
+         "Value": 6014
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2018-09-01",
+         "Value": 1872
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2018-10-01",
+         "Value": 6952
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2018-11-01",
+         "Value": 9274
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2018-12-01",
+         "Value": 7573
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2016-01-01",
+         "Value": 3385
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2016-02-01",
+         "Value": 3565
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2016-03-01",
+         "Value": 2528
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2016-04-01",
+         "Value": 9469
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2016-05-01",
+         "Value": 7219
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2016-06-01",
+         "Value": 5450
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2016-07-01",
+         "Value": 8124
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2016-08-01",
+         "Value": 3406
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2016-09-01",
+         "Value": 6859
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2016-10-01",
+         "Value": 2968
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2016-11-01",
+         "Value": 2529
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2016-12-01",
+         "Value": 9812
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2017-01-01",
+         "Value": 8977
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2017-02-01",
+         "Value": 3302
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2017-03-01",
+         "Value": 6923
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2017-04-01",
+         "Value": 6380
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2017-05-01",
+         "Value": 5596
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2017-06-01",
+         "Value": 6189
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2017-07-01",
+         "Value": 4465
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2017-08-01",
+         "Value": 4218
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2017-09-01",
+         "Value": 6970
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2017-10-01",
+         "Value": 8885
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2017-11-01",
+         "Value": 5358
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2017-12-01",
+         "Value": 7839
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2018-01-01",
+         "Value": 3478
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2018-02-01",
+         "Value": 5103
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2018-03-01",
+         "Value": 1771
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2018-04-01",
+         "Value": 7768
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2018-05-01",
+         "Value": 3095
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2018-06-01",
+         "Value": 9550
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2018-07-01",
+         "Value": 9440
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2018-08-01",
+         "Value": 2227
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2018-09-01",
+         "Value": 1074
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2018-10-01",
+         "Value": 3319
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2018-11-01",
+         "Value": 3767
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2018-12-01",
+         "Value": 8770
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2016-01-01",
+         "Value": 1360
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2016-02-01",
+         "Value": 7916
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2016-03-01",
+         "Value": 8269
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2016-04-01",
+         "Value": 5571
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2016-05-01",
+         "Value": 9727
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2016-06-01",
+         "Value": 8158
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2016-07-01",
+         "Value": 1751
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2016-08-01",
+         "Value": 5257
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2016-09-01",
+         "Value": 7927
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2016-10-01",
+         "Value": 1232
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2016-11-01",
+         "Value": 6047
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2016-12-01",
+         "Value": 5866
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2017-01-01",
+         "Value": 6807
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2017-02-01",
+         "Value": 8584
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2017-03-01",
+         "Value": 2357
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2017-04-01",
+         "Value": 6155
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2017-05-01",
+         "Value": 6248
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2017-06-01",
+         "Value": 5048
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2017-07-01",
+         "Value": 2619
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2017-08-01",
+         "Value": 4218
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2017-09-01",
+         "Value": 9433
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2017-10-01",
+         "Value": 1219
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2017-11-01",
+         "Value": 8372
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2017-12-01",
+         "Value": 7181
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2018-01-01",
+         "Value": 3268
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2018-02-01",
+         "Value": 8308
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2018-03-01",
+         "Value": 7428
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2018-04-01",
+         "Value": 2206
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2018-05-01",
+         "Value": 1077
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2018-06-01",
+         "Value": 2806
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2018-07-01",
+         "Value": 9754
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2018-08-01",
+         "Value": 2894
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2018-09-01",
+         "Value": 7781
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2018-10-01",
+         "Value": 5085
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2018-11-01",
+         "Value": 7379
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2018-12-01",
+         "Value": 7970
+      }
+   ],
+   "Platform 2": [
+      {
+         "ProductType": "Prod A",
+         "Date": "2016-01-01",
+         "Value": 9973
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2016-02-01",
+         "Value": 8802
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2016-03-01",
+         "Value": 4321
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2016-04-01",
+         "Value": 3205
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2016-05-01",
+         "Value": 9473
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2016-06-01",
+         "Value": 3092
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2016-07-01",
+         "Value": 3700
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2016-08-01",
+         "Value": 8668
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2016-09-01",
+         "Value": 5638
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2016-10-01",
+         "Value": 9207
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2016-11-01",
+         "Value": 7001
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2016-12-01",
+         "Value": 2483
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2017-01-01",
+         "Value": 6317
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2017-02-01",
+         "Value": 6096
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2017-03-01",
+         "Value": 2010
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2017-04-01",
+         "Value": 5497
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2017-05-01",
+         "Value": 8347
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2017-06-01",
+         "Value": 3493
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2017-07-01",
+         "Value": 9734
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2017-08-01",
+         "Value": 6318
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2017-09-01",
+         "Value": 3893
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2017-10-01",
+         "Value": 4351
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2017-11-01",
+         "Value": 8371
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2017-12-01",
+         "Value": 3080
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2018-01-01",
+         "Value": 3111
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2018-02-01",
+         "Value": 8635
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2018-03-01",
+         "Value": 9690
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2018-04-01",
+         "Value": 4123
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2018-05-01",
+         "Value": 9786
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2018-06-01",
+         "Value": 7632
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2018-07-01",
+         "Value": 5110
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2018-08-01",
+         "Value": 9151
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2018-09-01",
+         "Value": 5216
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2018-10-01",
+         "Value": 8015
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2018-11-01",
+         "Value": 6808
+      },
+      {
+         "ProductType": "Prod A",
+         "Date": "2018-12-01",
+         "Value": 3047
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2016-01-01",
+         "Value": 8264
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2016-02-01",
+         "Value": 8679
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2016-03-01",
+         "Value": 6895
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2016-04-01",
+         "Value": 2426
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2016-05-01",
+         "Value": 7243
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2016-06-01",
+         "Value": 1580
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2016-07-01",
+         "Value": 8322
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2016-08-01",
+         "Value": 1111
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2016-09-01",
+         "Value": 3928
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2016-10-01",
+         "Value": 8255
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2016-11-01",
+         "Value": 9586
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2016-12-01",
+         "Value": 5095
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2017-01-01",
+         "Value": 4549
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2017-02-01",
+         "Value": 1750
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2017-03-01",
+         "Value": 2175
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2017-04-01",
+         "Value": 5214
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2017-05-01",
+         "Value": 2076
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2017-06-01",
+         "Value": 9043
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2017-07-01",
+         "Value": 3488
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2017-08-01",
+         "Value": 7107
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2017-09-01",
+         "Value": 3922
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2017-10-01",
+         "Value": 4600
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2017-11-01",
+         "Value": 7222
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2017-12-01",
+         "Value": 6251
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2018-01-01",
+         "Value": 7717
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2018-02-01",
+         "Value": 2672
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2018-03-01",
+         "Value": 3099
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2018-04-01",
+         "Value": 9144
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2018-05-01",
+         "Value": 5328
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2018-06-01",
+         "Value": 5788
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2018-07-01",
+         "Value": 5138
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2018-08-01",
+         "Value": 8875
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2018-09-01",
+         "Value": 4319
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2018-10-01",
+         "Value": 7528
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2018-11-01",
+         "Value": 5305
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2018-12-01",
+         "Value": 3416
+      }
+   ],
+   "Platform 3": [
+      {
+         "ProductType": "Prod A*",
+         "Date": "2016-01-01",
+         "Value": 9094
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2016-02-01",
+         "Value": 5577
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2016-03-01",
+         "Value": 5627
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2016-04-01",
+         "Value": 7466
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2016-05-01",
+         "Value": 7397
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2016-06-01",
+         "Value": 2512
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2016-07-01",
+         "Value": 1311
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2016-08-01",
+         "Value": 1214
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2016-09-01",
+         "Value": 4841
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2016-10-01",
+         "Value": 9841
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2016-11-01",
+         "Value": 4877
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2016-12-01",
+         "Value": 5637
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2017-01-01",
+         "Value": 2856
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2017-02-01",
+         "Value": 2922
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2017-03-01",
+         "Value": 2307
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2017-04-01",
+         "Value": 2210
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2017-05-01",
+         "Value": 4094
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2017-06-01",
+         "Value": 5589
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2017-07-01",
+         "Value": 4942
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2017-08-01",
+         "Value": 5759
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2017-09-01",
+         "Value": 6747
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2017-10-01",
+         "Value": 1137
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2017-11-01",
+         "Value": 1513
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2017-12-01",
+         "Value": 8941
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2018-01-01",
+         "Value": 6430
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2018-02-01",
+         "Value": 4979
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2018-03-01",
+         "Value": 1493
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2018-04-01",
+         "Value": 7012
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2018-05-01",
+         "Value": 9085
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2018-06-01",
+         "Value": 1924
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2018-07-01",
+         "Value": 3470
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2018-08-01",
+         "Value": 5444
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2018-09-01",
+         "Value": 8602
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2018-10-01",
+         "Value": 4317
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2018-11-01",
+         "Value": 2657
+      },
+      {
+         "ProductType": "Prod A*",
+         "Date": "2018-12-01",
+         "Value": 6133
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2016-01-01",
+         "Value": 2600
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2016-02-01",
+         "Value": 4511
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2016-03-01",
+         "Value": 7718
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2016-04-01",
+         "Value": 8246
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2016-05-01",
+         "Value": 1289
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2016-06-01",
+         "Value": 1470
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2016-07-01",
+         "Value": 7292
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2016-08-01",
+         "Value": 9930
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2016-09-01",
+         "Value": 3710
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2016-10-01",
+         "Value": 7246
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2016-11-01",
+         "Value": 8100
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2016-12-01",
+         "Value": 1938
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2017-01-01",
+         "Value": 6355
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2017-02-01",
+         "Value": 2858
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2017-03-01",
+         "Value": 2878
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2017-04-01",
+         "Value": 8548
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2017-05-01",
+         "Value": 8074
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2017-06-01",
+         "Value": 6144
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2017-07-01",
+         "Value": 1631
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2017-08-01",
+         "Value": 5968
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2017-09-01",
+         "Value": 3933
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2017-10-01",
+         "Value": 7206
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2017-11-01",
+         "Value": 7018
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2017-12-01",
+         "Value": 9983
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2018-01-01",
+         "Value": 3341
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2018-02-01",
+         "Value": 2699
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2018-03-01",
+         "Value": 4357
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2018-04-01",
+         "Value": 9817
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2018-05-01",
+         "Value": 5095
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2018-06-01",
+         "Value": 2439
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2018-07-01",
+         "Value": 8155
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2018-08-01",
+         "Value": 9266
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2018-09-01",
+         "Value": 8009
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2018-10-01",
+         "Value": 9282
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2018-11-01",
+         "Value": 7869
+      },
+      {
+         "ProductType": "Prod B-",
+         "Date": "2018-12-01",
+         "Value": 6213
+      },
+      {
+         "ProductType": "Prod C",
+         "Date": "2016-01-01",
+         "Value": 3917
+      },
+      {
+         "ProductType": "Prod C",
+         "Date": "2016-02-01",
+         "Value": 6722
+      },
+      {
+         "ProductType": "Prod C",
+         "Date": "2016-03-01",
+         "Value": 9404
+      },
+      {
+         "ProductType": "Prod C",
+         "Date": "2016-04-01",
+         "Value": 6712
+      },
+      {
+         "ProductType": "Prod C",
+         "Date": "2016-05-01",
+         "Value": 4113
+      },
+      {
+         "ProductType": "Prod C",
+         "Date": "2016-06-01",
+         "Value": 3296
+      },
+      {
+         "ProductType": "Prod C",
+         "Date": "2016-07-01",
+         "Value": 9159
+      },
+      {
+         "ProductType": "Prod C",
+         "Date": "2016-08-01",
+         "Value": 8057
+      },
+      {
+         "ProductType": "Prod C",
+         "Date": "2016-09-01",
+         "Value": 7028
+      },
+      {
+         "ProductType": "Prod C",
+         "Date": "2016-10-01",
+         "Value": 8037
+      },
+      {
+         "ProductType": "Prod C",
+         "Date": "2016-11-01",
+         "Value": 4858
+      },
+      {
+         "ProductType": "Prod C",
+         "Date": "2016-12-01",
+         "Value": 7239
+      },
+      {
+         "ProductType": "Prod C",
+         "Date": "2017-01-01",
+         "Value": 9697
+      },
+      {
+         "ProductType": "Prod C",
+         "Date": "2017-02-01",
+         "Value": 3389
+      },
+      {
+         "ProductType": "Prod C",
+         "Date": "2017-03-01",
+         "Value": 3269
+      },
+      {
+         "ProductType": "Prod C",
+         "Date": "2017-04-01",
+         "Value": 6779
+      },
+      {
+         "ProductType": "Prod C",
+         "Date": "2017-05-01",
+         "Value": 5509
+      },
+      {
+         "ProductType": "Prod C",
+         "Date": "2017-06-01",
+         "Value": 8642
+      },
+      {
+         "ProductType": "Prod C",
+         "Date": "2017-07-01",
+         "Value": 1098
+      },
+      {
+         "ProductType": "Prod C",
+         "Date": "2017-08-01",
+         "Value": 2316
+      },
+      {
+         "ProductType": "Prod C",
+         "Date": "2017-09-01",
+         "Value": 4293
+      },
+      {
+         "ProductType": "Prod C",
+         "Date": "2017-10-01",
+         "Value": 9012
+      },
+      {
+         "ProductType": "Prod C",
+         "Date": "2017-11-01",
+         "Value": 5206
+      },
+      {
+         "ProductType": "Prod C",
+         "Date": "2017-12-01",
+         "Value": 1721
+      },
+      {
+         "ProductType": "Prod C",
+         "Date": "2018-01-01",
+         "Value": 7879
+      },
+      {
+         "ProductType": "Prod C",
+         "Date": "2018-02-01",
+         "Value": 3343
+      },
+      {
+         "ProductType": "Prod C",
+         "Date": "2018-03-01",
+         "Value": 9087
+      },
+      {
+         "ProductType": "Prod C",
+         "Date": "2018-04-01",
+         "Value": 6205
+      },
+      {
+         "ProductType": "Prod C",
+         "Date": "2018-05-01",
+         "Value": 8520
+      },
+      {
+         "ProductType": "Prod C",
+         "Date": "2018-06-01",
+         "Value": 5034
+      },
+      {
+         "ProductType": "Prod C",
+         "Date": "2018-07-01",
+         "Value": 8074
+      },
+      {
+         "ProductType": "Prod C",
+         "Date": "2018-08-01",
+         "Value": 6559
+      },
+      {
+         "ProductType": "Prod C",
+         "Date": "2018-09-01",
+         "Value": 3490
+      },
+      {
+         "ProductType": "Prod C",
+         "Date": "2018-10-01",
+         "Value": 3474
+      },
+      {
+         "ProductType": "Prod C",
+         "Date": "2018-11-01",
+         "Value": 2437
+      },
+      {
+         "ProductType": "Prod C",
+         "Date": "2018-12-01",
+         "Value": 2364
+      }
+   ]
+}
